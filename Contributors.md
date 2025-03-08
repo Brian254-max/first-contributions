@@ -34,7 +34,7 @@
 - [turki013](https://github.com/turki013) Hello **Everyone!** this first contrbution !! `woow`
 - [satishkumarnarayanasamy](https://github.com/mochasweet) Make Github Great Again!
   Akbar: Nima gap!
-  [brianactivity](https://github.com/Brian254-max) add-first-os1
+  [brianactivity]add-first-os1
 - [r0s3ndev] first contribution lol
 - [daniels_16] This is my very first step on GitHub! Hi everyone!
 - [CheDani](https://github.com/CheDaniSV) Hi everyone! 👾
